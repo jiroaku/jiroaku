@@ -5,7 +5,7 @@
 **Full-Stack Developer** passionate about building modern web applications
 
 [![GitHub followers](https://img.shields.io/github/followers/jiroaku?style=flat-square&label=followers&logo=github)](https://github.com/jiroaku)
-[![Visitors](https://visitcount.itsvg.in/api?id=jiroaku&icon=5&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=jiroaku&color=blueviolet&style=flat-square)
 
 ---
 
